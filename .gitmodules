@@ -7,3 +7,6 @@
 [submodule "lib/permit2"]
 	path = lib/permit2
 	url = git@github.com:Uniswap/permit2.git
+[submodule "lib/ds-test"]
+	path = lib/ds-test
+	url = https://github.com/dapphub/ds-test

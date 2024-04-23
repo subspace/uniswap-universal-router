@@ -68,6 +68,9 @@ export default {
     baseGoerli: {
       url: `https://goerli.base.org`,
     },
+    subspaceNova: {
+      url: `https://nova-0.gemini-3h.subspace.network/ws`,
+    },
   },
   namedAccounts: {
     deployer: 0,
